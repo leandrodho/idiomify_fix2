@@ -52,7 +52,7 @@
     <dependency>
         <groupId>commons-fileupload</groupId>
         <artifactId>commons-fileupload</artifactId>
-        <version>1.4</version> <!-- Asegúrate de utilizar la última versión disponible -->
+        <version>1.5</version> <!-- Asegúrate de utilizar la última versión disponible -->
     </dependency>
     <dependency>
         <groupId>commons-io</groupId>
