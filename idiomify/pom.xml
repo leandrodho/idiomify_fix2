@@ -57,7 +57,7 @@
     <dependency>
         <groupId>commons-io</groupId>
         <artifactId>commons-io</artifactId>
-        <version>2.11.0</version> <!-- Asegúrate de utilizar la última versión disponible -->
+        <version>2.16.1</version> <!-- Asegúrate de utilizar la última versión disponible -->
     </dependency>
 
    <!-- Dependencia de iText 5.5.9 -->
